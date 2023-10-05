@@ -1,0 +1,36 @@
+.searchdiv{
+    height: auto;
+    width: 100%;
+    /* background-color: #121212; */
+    /* background-color: #ab9f9f; */
+    /* display: flex; */
+}
+
+.searchcard{
+    height:200px ;
+    width: 200px;
+    /* background-color: rgb(176, 42, 42); */
+    border-radius: 10px;
+    overflow: hidden; 
+    
+}
+.podcastdiv1{
+    display: grid;
+    grid-template-columns: auto  auto  auto  auto auto;
+    /* grid-template-columns: 80px 200px auto 40px; */
+    grid-template-rows: auto  auto  auto  auto auto ;
+  width: 100%;
+  height: auto;
+
+    /* column-gap: 50px; */
+    row-gap: 50px;
+}
+.image{
+    height: 50px;
+    width:  90px;
+    padding-left: 59%;
+    padding-top: 15%;
+
+ 
+  
+}
